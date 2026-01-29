@@ -2,7 +2,7 @@
 
 **Namibian-built technology for a digital future**
 
-## 👋 Who We Are
+## Who We Are
 
 VINS Technologies is a Namibian software company founded by **Viegas**, **Iitembu**, **Nakale**, and **Santos**.
 
@@ -12,33 +12,33 @@ We design and develop websites, web applications, and mobile apps that help busi
 
 ---
 
-## 💼 What We Do
+## What We Do
 
 We provide end-to-end IT solutions — from idea to launch and beyond.
 
 ### Our Services
 
-#### 🌐 Website Development
+#### Website Development
 Modern, responsive websites that represent your brand and help you reach more people online.
 
-#### ⚙️ Web Applications & Systems
+#### Web Applications & Systems
 Custom dashboards, management systems, and business tools built to solve real-world problems.
 
-#### 📱 Mobile App Development
+#### Mobile App Development
 Android and iOS applications designed for performance, usability, and scalability.
 
-#### 🎨 UI/UX Design
+#### UI/UX Design
 User-friendly designs, prototypes, and layouts created in Figma before development begins.
 
-#### 🔧 Maintenance & Support
+#### Maintenance & Support
 We don't disappear after launch. We maintain, update, and support your systems.
 
-#### 💡 IT Consulting
+#### IT Consulting
 Clear, honest advice to help you choose the right technology without unnecessary complexity or cost.
 
 ---
 
-## 🎯 Why We Do It
+## Why We Do It
 
 **Namibia has talent. Namibia has ideas.**  
 What's often missing is accessible, reliable technology.
@@ -56,7 +56,7 @@ We believe technology should **empower, not confuse or exclude**.
 
 ---
 
-## 🚀 Our Aim
+## Our Aim
 
 Our aim is to build technology that:
 
@@ -68,18 +68,18 @@ As we grow, we aim to train, mentor, and employ local talent, contributing direc
 
 ---
 
-## ✨ Why Choose VINS Technologies
+## Why Choose VINS Technologies
 
 - 🇳🇦 **Namibian-based and locally driven**
-- 💬 **Clear communication** without unnecessary technical jargon
-- 🌟 **Youthful, innovative approach**
-- 💰 **Affordable solutions** without cutting corners
-- 🤝 **Long-term partnerships**, not one-off projects
-- 🔄 **Full lifecycle support**: design, development, and maintenance
+- **Clear communication** without unnecessary technical jargon
+- **Youthful, innovative approach**
+- **Affordable solutions** without cutting corners
+- **Long-term partnerships**, not one-off projects
+- **Full lifecycle support**: design, development, and maintenance
 
 ---
 
-## 👥 Our Team
+## Our Team
 
 VINS Technologies is led by four founders with a shared vision of building world-class software from Namibia:
 
@@ -92,16 +92,16 @@ Together, we combine creativity, technical expertise, and a passion for solving 
 
 ---
 
-## 📂 Our Work
+## Our Work
 
 Explore our repositories to see what we're building — from innovative web applications to mobile solutions focused on practical use and clean design.
 
 ---
 
-## 📞 Let's Build Something Together
+## Let's Build Something Together
 
 Whether you're a startup, a growing business, or an individual with an idea — **VINS Technologies is ready to help**.
 
-💼 Explore our repositories, open an issue, or reach out through our GitHub organization to discuss your project.
+Explore our repositories, open an issue, or reach out through our GitHub organization to discuss your project.
 
 **Building Namibia's Digital Future** 🇳🇦
