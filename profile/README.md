@@ -1,6 +1,6 @@
 # Welcome to VINS Technologies
 
-VINS Technologies public organization profile.
+Welcome to the VINS Technologies public organization profile.
 
 ## About Us
 
