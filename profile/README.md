@@ -94,12 +94,14 @@ Together, we combine creativity, technical expertise, and a passion for solving 
 
 ## 📂 Our Work
 
-We have successfully delivered multiple projects focused on practical solutions and clean, modern design. Explore our repositories to see what we're building!
+Explore our repositories to see what we're building — from innovative web applications to mobile solutions focused on practical use and clean design.
 
 ---
 
 ## 📞 Let's Build Something Together
 
 Whether you're a startup, a growing business, or an individual with an idea — **VINS Technologies is ready to help**.
+
+💼 Explore our repositories, open an issue, or reach out through our GitHub organization to discuss your project.
 
 **Building Namibia's Digital Future** 🇳🇦
